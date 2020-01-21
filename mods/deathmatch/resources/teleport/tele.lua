@@ -18,6 +18,8 @@ function tele(source,cmd,placeName)
         else
             outputChatBox ( "[错误]: 传送点不存在!" ,source )
         end
+    else
+        outputChatBox ( "[用法]: /"..placeName.." [传送点名称]" ,source )
     end
 end
 
