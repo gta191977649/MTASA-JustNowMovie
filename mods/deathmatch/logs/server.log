@@ -3736,3 +3736,417 @@
 [2020-01-21 22:37:45] Server stopped!
 [2020-01-21 22:37:45] Stopping resources..................
 [2020-01-21 22:37:45] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : MTA SA - 拍摄现场
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ustNowMovie/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-01-21 22:44:11] Resource 'gui_edit' requests some acl rights. Use the command 'aclrequest list gui_edit'
+[2020-01-21 22:44:11] Resources: 28 loaded, 0 failed
+[2020-01-21 22:44:11] Starting resources.........
+[2020-01-21 22:44:15] WARNING: vending/vending_c.lua(Line 150) [Client] isPlayerDead is deprecated and may not work in future versions. Please replace with isPedDead before Tuesday.
+[2020-01-21 22:44:15] WARNING: vending/vending_c.lua(Line 265) [Client] setPedFrozen is deprecated and may not work in future versions. Please replace with setElementFrozen before Tuesday.
+[2020-01-21 22:44:15] Some files in 'vending' use deprecated functions.
+[2020-01-21 22:44:15] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2020-01-21 22:44:15] WARNING: interiors/interiors_client.lua(Line 164) [Client] getControlState is deprecated and may not work in future versions. Please replace with getPedControlState before Tuesday.
+[2020-01-21 22:44:15] Some files in 'interiors' use deprecated functions.
+[2020-01-21 22:44:15] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2020-01-21 22:44:16] ERROR: Couldn't find resource nametag. Check it exists.
+[2020-01-21 22:44:16] Server minclientversion is now 1.5.7-9.18981.0
+[2020-01-21 22:44:16] Querying MTA master server... success! (Auto detected IP:101.180.65.73)
+[2020-01-21 22:44:16] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-01-21 22:44:16] WARNING: <owner_email_address> not set
+[2020-01-21 22:44:16] Server started and is ready to accept connections!
+[2020-01-21 22:44:16] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-01-21 22:44:16] Type 'help' for a list of commands.
+[2020-01-21 22:44:17] Loaded path map paths/maps/san_andreas in 6198 ms
+[2020-01-21 22:44:17] Loaded all path maps in 6238 ms
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : MTA SA - 拍摄现场
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ustNowMovie/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-01-21 23:07:00] Resource 'gui_edit' requests some acl rights. Use the command 'aclrequest list gui_edit'
+[2020-01-21 23:07:00] Resources: 28 loaded, 0 failed
+[2020-01-21 23:07:00] ERROR: Could not bind the server on interface '' and port '22003'!
+[2020-01-21 23:07:01] Server stopped!
+[2020-01-21 23:07:01] Stopping resources...
+[2020-01-21 23:07:01] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : MTA SA - 拍摄现场
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ustNowMovie/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-01-21 23:07:12] Resource 'gui_edit' requests some acl rights. Use the command 'aclrequest list gui_edit'
+[2020-01-21 23:07:12] Resources: 28 loaded, 0 failed
+[2020-01-21 23:07:12] ERROR: Could not bind the server on interface '' and port '22003'!
+[2020-01-21 23:07:13] Server stopped!
+[2020-01-21 23:07:13] Stopping resources...
+[2020-01-21 23:07:13] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : MTA SA - 拍摄现场
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ustNowMovie/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-01-21 23:08:11] Resource 'gui_edit' requests some acl rights. Use the command 'aclrequest list gui_edit'
+[2020-01-21 23:08:11] Resources: 28 loaded, 0 failed
+[2020-01-21 23:08:11] ERROR: Could not bind the server on interface '' and port '22003'!
+[2020-01-21 23:08:12] Server stopped!
+[2020-01-21 23:08:12] Stopping resources...
+[2020-01-21 23:08:12] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : MTA SA - 拍摄现场
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..ustNowMovie/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-01-21 23:08:51] Resource 'gui_edit' requests some acl rights. Use the command 'aclrequest list gui_edit'
+[2020-01-21 23:08:51] Resources: 28 loaded, 0 failed
+[2020-01-21 23:08:51] ERROR: Could not bind the server on interface '' and port '22003'!
+[2020-01-21 23:08:52] Server stopped!
+[2020-01-21 23:08:52] Stopping resources...
+[2020-01-21 23:08:52] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : MTA SA - 拍摄现场
+= Server IP address: auto
+= Server port      : 22004
+= 
+= Log file         : ..ustNowMovie/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-01-21 23:09:00] Resource 'gui_edit' requests some acl rights. Use the command 'aclrequest list gui_edit'
+[2020-01-21 23:09:00] Resources: 28 loaded, 0 failed
+[2020-01-21 23:09:00] Starting resources...
+[2020-01-21 23:09:00] INFO: Cannot Found db config file!
+[2020-01-21 23:09:02] Loaded path map paths/maps/san_andreas in 1137 ms
+[2020-01-21 23:09:02] Loaded all path maps in 1137 ms
+[2020-01-21 23:09:02] WARNING: vending/vending_c.lua(Line 150) [Client] isPlayerDead is deprecated and may not work in future versions. Please replace with isPedDead before Tuesday.
+[2020-01-21 23:09:02] WARNING: vending/vending_c.lua(Line 265) [Client] setPedFrozen is deprecated and may not work in future versions. Please replace with setElementFrozen before Tuesday.
+[2020-01-21 23:09:02] Some files in 'vending' use deprecated functions.
+[2020-01-21 23:09:02] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2020-01-21 23:09:02] WARNING: interiors/interiors_client.lua(Line 164) [Client] getControlState is deprecated and may not work in future versions. Please replace with getPedControlState before Tuesday.
+[2020-01-21 23:09:02] Some files in 'interiors' use deprecated functions.
+[2020-01-21 23:09:02] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2020-01-21 23:09:02] ERROR: Couldn't find resource nametag. Check it exists.
+[2020-01-21 23:09:02] Server minclientversion is now 1.5.7-9.18981.0
+[2020-01-21 23:09:02] Querying MTA master server... success! (Auto detected IP:101.180.65.73)
+[2020-01-21 23:09:02] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-01-21 23:09:02] WARNING: <owner_email_address> not set
+[2020-01-21 23:09:02] Server started and is ready to accept connections!
+[2020-01-21 23:09:02] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-01-21 23:09:02] Type 'help' for a list of commands.
+[2020-01-21 23:14:16] Server stopped!
+[2020-01-21 23:14:16] Stopping resources...................
+[2020-01-21 23:14:16] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : MTA SA - 拍摄现场
+= Server IP address: auto
+= Server port      : 22004
+= 
+= Log file         : ..ustNowMovie/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-01-21 23:14:18] Resource 'gui_edit' requests some acl rights. Use the command 'aclrequest list gui_edit'
+[2020-01-21 23:14:18] Resources: 28 loaded, 0 failed
+[2020-01-21 23:14:18] Starting resources...
+[2020-01-21 23:14:18] INFO: DB Connection OK!
+[2020-01-21 23:14:20] Loaded path map paths/maps/san_andreas in 1527 ms
+[2020-01-21 23:14:20] Loaded all path maps in 1527 ms
+[2020-01-21 23:14:20] WARNING: vending/vending_c.lua(Line 150) [Client] isPlayerDead is deprecated and may not work in future versions. Please replace with isPedDead before Tuesday.
+[2020-01-21 23:14:20] WARNING: vending/vending_c.lua(Line 265) [Client] setPedFrozen is deprecated and may not work in future versions. Please replace with setElementFrozen before Tuesday.
+[2020-01-21 23:14:20] Some files in 'vending' use deprecated functions.
+[2020-01-21 23:14:20] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2020-01-21 23:14:20] WARNING: interiors/interiors_client.lua(Line 164) [Client] getControlState is deprecated and may not work in future versions. Please replace with getPedControlState before Tuesday.
+[2020-01-21 23:14:20] Some files in 'interiors' use deprecated functions.
+[2020-01-21 23:14:20] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2020-01-21 23:14:20] ERROR: Couldn't find resource nametag. Check it exists.
+[2020-01-21 23:14:20] Server minclientversion is now 1.5.7-9.18981.0
+[2020-01-21 23:14:20] Querying MTA master server... success! (Auto detected IP:101.180.65.73)
+[2020-01-21 23:14:20] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-01-21 23:14:20] WARNING: <owner_email_address> not set
+[2020-01-21 23:14:20] Server started and is ready to accept connections!
+[2020-01-21 23:14:20] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-01-21 23:14:20] Type 'help' for a list of commands.
+[2020-01-21 23:15:22] Upgrading all resources...
+[2020-01-21 23:15:23] Upgrading gui_edit:meta.xml ...........done
+[2020-01-21 23:15:23] Upgrading interiors:interiors_client.lua ...........done
+[2020-01-21 23:15:23] Upgrading vending:vending_c.lua ...........done
+[2020-01-21 23:15:23] Upgrade completed. Refreshing all resources...
+[2020-01-21 23:15:23] Resource 'gui_edit' changed, reloading
+[2020-01-21 23:15:23] Resource 'gui_edit' requests some acl rights. Use the command 'aclrequest list gui_edit'
+[2020-01-21 23:15:23] New resource 'gui_edit' loaded
+[2020-01-21 23:15:23] Resource 'interiors' changed while running, reloading and restarting
+[2020-01-21 23:15:23] Stopping interiors
+[2020-01-21 23:15:23] New resource 'interiors' loaded
+[2020-01-21 23:15:23] Resource 'vending' changed while running, reloading and restarting
+[2020-01-21 23:15:23] Stopping vending
+[2020-01-21 23:15:23] New resource 'vending' loaded
+[2020-01-21 23:15:23] Resources: 28 loaded, 0 failed
+[2020-01-21 23:15:23] Starting interiors
+[2020-01-21 23:15:23] Starting vending
+[2020-01-21 23:23:53] Server stopped!
+[2020-01-21 23:23:53] Stopping resources...................
+[2020-01-21 23:23:53] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : MTA SA - 拍摄现场
+= Server IP address: auto
+= Server port      : 22004
+= 
+= Log file         : ..ustNowMovie/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-01-21 23:23:55] Resource 'gui_edit' requests some acl rights. Use the command 'aclrequest list gui_edit'
+[2020-01-21 23:23:55] Resources: 28 loaded, 0 failed
+[2020-01-21 23:23:55] Starting resources...
+[2020-01-21 23:23:55] INFO: DB Connection OK!
+[2020-01-21 23:23:55] ERROR: Couldn't find resource teleport. Check it exists.
+[2020-01-21 23:23:58] Loaded path map paths/maps/san_andreas in 2102 ms
+[2020-01-21 23:23:58] Loaded all path maps in 2103 ms
+[2020-01-21 23:23:58] ERROR: Couldn't find resource nametag. Check it exists.
+[2020-01-21 23:23:58] Server minclientversion is now 1.5.7-9.18981.0
+[2020-01-21 23:23:58] Querying MTA master server... success! (Auto detected IP:101.180.65.73)
+[2020-01-21 23:23:58] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-01-21 23:23:58] WARNING: <owner_email_address> not set
+[2020-01-21 23:23:58] Server started and is ready to accept connections!
+[2020-01-21 23:23:58] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-01-21 23:23:58] Type 'help' for a list of commands.
+[2020-01-21 23:24:30] CONNECT: Nurupo27 connected (IP: 192.168.137.1  Serial: 31E7305C363CC0191502518CE4591803  Version: 1.5.7-9.20358.1)
+[2020-01-21 23:24:31] JOIN: Nurupo27 joined the game (IP: 192.168.137.1)
+[2020-01-21 23:26:11] restart: Resource could not be found
+[2020-01-21 23:26:29] restart: Resource could not be found
+[2020-01-21 23:26:30] restart: Resource could not be found
+[2020-01-21 23:26:32] Server stopped!
+[2020-01-21 23:26:33] Stopping resources...................
+[2020-01-21 23:26:33] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : MTA SA - 拍摄现场
+= Server IP address: auto
+= Server port      : 22004
+= 
+= Log file         : ..ustNowMovie/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-01-21 23:26:35] Resource 'gui_edit' requests some acl rights. Use the command 'aclrequest list gui_edit'
+[2020-01-21 23:26:35] Resources: 29 loaded, 0 failed
+[2020-01-21 23:26:35] Starting resources...
+[2020-01-21 23:26:35] INFO: DB Connection OK!
+[2020-01-21 23:26:37] Loaded path map paths/maps/san_andreas in 1672 ms
+[2020-01-21 23:26:37] Loaded all path maps in 1672 ms
+[2020-01-21 23:26:37] ERROR: Couldn't find resource nametag. Check it exists.
+[2020-01-21 23:26:37] Server minclientversion is now 1.5.7-9.18981.0
+[2020-01-21 23:26:37] Querying MTA master server... success! (Auto detected IP:101.180.65.73)
+[2020-01-21 23:26:37] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-01-21 23:26:37] WARNING: <owner_email_address> not set
+[2020-01-21 23:26:37] Server started and is ready to accept connections!
+[2020-01-21 23:26:37] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-01-21 23:26:37] Type 'help' for a list of commands.
+[2020-01-21 23:26:42] CONNECT: Nurupo27 connected (IP: 192.168.137.1  Serial: 31E7305C363CC0191502518CE4591803  Version: 1.5.7-9.20358.1)
+[2020-01-21 23:26:43] JOIN: Nurupo27 joined the game (IP: 192.168.137.1)
+[2020-01-21 23:26:58] restart: Requested by Console
+[2020-01-21 23:26:58] restart: Resource restarting...
+[2020-01-21 23:26:58] Stopping teleport
+[2020-01-21 23:26:58] Starting teleport
+[2020-01-21 23:26:58] teleport restarted successfully
+[2020-01-21 23:27:04] restart: Requested by Console
+[2020-01-21 23:27:04] restart: Resource restarting...
+[2020-01-21 23:27:04] Stopping teleport
+[2020-01-21 23:27:05] Resource 'teleport' changed, reloading and starting
+[2020-01-21 23:27:05] Starting teleport
+[2020-01-21 23:27:05] teleport restarted successfully
+[2020-01-21 23:27:07] ERROR: teleport\tele.lua:2: attempt to concatenate local 'placeName' (a nil value)
+[2020-01-21 23:27:17] INFO: table: 09A555B0
+[2020-01-21 23:27:43] restart: Requested by Console
+[2020-01-21 23:27:43] restart: Resource restarting...
+[2020-01-21 23:27:43] Stopping teleport
+[2020-01-21 23:27:43] Resource 'teleport' changed, reloading and starting
+[2020-01-21 23:27:43] Starting teleport
+[2020-01-21 23:27:43] teleport restarted successfully
+[2020-01-21 23:27:45] INFO: table: 09CF1148
+[2020-01-21 23:32:34] restart: Requested by Console
+[2020-01-21 23:32:34] restart: Resource restarting...
+[2020-01-21 23:32:34] Stopping teleport
+[2020-01-21 23:32:34] Resource 'teleport' changed, reloading and starting
+[2020-01-21 23:32:34] Starting teleport
+[2020-01-21 23:32:34] teleport restarted successfully
+[2020-01-21 23:32:37] INFO: 1
+[2020-01-21 23:32:52] restart: Requested by Console
+[2020-01-21 23:32:52] restart: Resource restarting...
+[2020-01-21 23:32:52] Stopping teleport
+[2020-01-21 23:32:52] Resource 'teleport' changed, reloading and starting
+[2020-01-21 23:32:52] Starting teleport
+[2020-01-21 23:32:52] teleport restarted successfully
+[2020-01-21 23:32:54] INFO: nil
+[2020-01-21 23:33:21] restart: Requested by Console
+[2020-01-21 23:33:21] restart: Resource restarting...
+[2020-01-21 23:33:21] Stopping teleport
+[2020-01-21 23:33:21] Resource 'teleport' changed, reloading and starting
+[2020-01-21 23:33:21] Starting teleport
+[2020-01-21 23:33:21] teleport restarted successfully
+[2020-01-21 23:33:24] ERROR: teleport\tele.lua:4: attempt to index field '?' (a nil value)
+[2020-01-21 23:33:32] restart: Requested by Console
+[2020-01-21 23:33:32] restart: Resource restarting...
+[2020-01-21 23:33:32] Stopping teleport
+[2020-01-21 23:33:32] Resource 'teleport' changed, reloading and starting
+[2020-01-21 23:33:32] Starting teleport
+[2020-01-21 23:33:32] teleport restarted successfully
+[2020-01-21 23:33:34] INFO: aa
+[2020-01-21 23:37:18] restart: Requested by Console
+[2020-01-21 23:37:18] restart: Resource restarting...
+[2020-01-21 23:37:18] Stopping teleport
+[2020-01-21 23:37:18] Resource 'teleport' changed, reloading and starting
+[2020-01-21 23:37:18] Starting teleport
+[2020-01-21 23:37:18] teleport restarted successfully
+[2020-01-21 23:37:31] restart: Requested by Console
+[2020-01-21 23:37:31] restart: Resource restarting...
+[2020-01-21 23:37:31] Stopping teleport
+[2020-01-21 23:37:31] Starting teleport
+[2020-01-21 23:37:31] teleport restarted successfully
+[2020-01-21 23:37:36] WARNING: teleport\tele.lua:10: Bad argument @ 'getElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:37:36] WARNING: teleport\tele.lua:13: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:37:42] WARNING: teleport\tele.lua:10: Bad argument @ 'getElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:37:42] WARNING: teleport\tele.lua:13: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:37:54] restart: Requested by Console
+[2020-01-21 23:37:54] restart: Resource restarting...
+[2020-01-21 23:37:54] Stopping teleport
+[2020-01-21 23:37:54] Resource 'teleport' changed, reloading and starting
+[2020-01-21 23:37:54] Starting teleport
+[2020-01-21 23:37:54] teleport restarted successfully
+[2020-01-21 23:39:39] restart: Requested by Console
+[2020-01-21 23:39:39] restart: Resource restarting...
+[2020-01-21 23:39:39] Stopping teleport
+[2020-01-21 23:39:39] Resource 'teleport' changed, reloading and starting
+[2020-01-21 23:39:39] Starting teleport
+[2020-01-21 23:39:39] teleport restarted successfully
+[2020-01-21 23:39:53] restart: Requested by Console
+[2020-01-21 23:39:53] restart: Resource restarting...
+[2020-01-21 23:39:53] Stopping teleport
+[2020-01-21 23:39:53] Resource 'teleport' changed, reloading and starting
+[2020-01-21 23:39:53] Starting teleport
+[2020-01-21 23:39:53] teleport restarted successfully
+[2020-01-21 23:40:04] restart: Requested by Console
+[2020-01-21 23:40:04] restart: Resource restarting...
+[2020-01-21 23:40:04] Stopping teleport
+[2020-01-21 23:40:04] Resource 'teleport' changed, reloading and starting
+[2020-01-21 23:40:04] Starting teleport
+[2020-01-21 23:40:04] teleport restarted successfully
+[2020-01-21 23:40:08] WARNING: teleport\tele.lua:10: Bad argument @ 'getElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:40:08] WARNING: teleport\tele.lua:13: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:40:13] ERROR: teleport\tele.lua:5: attempt to index field '?' (a nil value)
+[2020-01-21 23:40:19] WARNING: teleport\tele.lua:10: Bad argument @ 'getElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:40:19] WARNING: teleport\tele.lua:13: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:42:13] WARNING: teleport\tele.lua:10: Bad argument @ 'getElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:42:13] WARNING: teleport\tele.lua:13: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:42:16] restart: Requested by Console
+[2020-01-21 23:42:16] restart: Resource restarting...
+[2020-01-21 23:42:16] Stopping teleport
+[2020-01-21 23:42:16] Resource 'teleport' changed, reloading and starting
+[2020-01-21 23:42:16] Starting teleport
+[2020-01-21 23:42:16] teleport restarted successfully
+[2020-01-21 23:42:19] WARNING: teleport\tele.lua:10: Bad argument @ 'getElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:42:19] WARNING: teleport\tele.lua:13: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:43:36] restart: Requested by Console
+[2020-01-21 23:43:36] restart: Resource restarting...
+[2020-01-21 23:43:36] Stopping teleport
+[2020-01-21 23:43:36] Resource 'teleport' changed, reloading and starting
+[2020-01-21 23:43:36] Starting teleport
+[2020-01-21 23:43:36] teleport restarted successfully
+[2020-01-21 23:43:43] WARNING: teleport\tele.lua:11: Bad argument @ 'getElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:43:43] WARNING: teleport\tele.lua:14: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:43:49] WARNING: teleport\tele.lua:11: Bad argument @ 'getElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:43:49] WARNING: teleport\tele.lua:14: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:43:50] WARNING: teleport\tele.lua:11: Bad argument @ 'getElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:43:50] WARNING: teleport\tele.lua:14: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:47:07] restart: Requested by Console
+[2020-01-21 23:47:07] restart: Resource restarting...
+[2020-01-21 23:47:07] Stopping teleport
+[2020-01-21 23:47:07] Starting teleport
+[2020-01-21 23:47:07] teleport restarted successfully
+[2020-01-21 23:47:10] restart: Requested by Console
+[2020-01-21 23:47:10] restart: Resource restarting...
+[2020-01-21 23:47:10] Stopping db
+[2020-01-21 23:47:10] Resource 'db' changed, reloading and starting
+[2020-01-21 23:47:10] Starting db
+[2020-01-21 23:47:10] INFO: DB Connection OK!
+[2020-01-21 23:47:10] db restarted successfully
+[2020-01-21 23:47:16] WARNING: teleport\tele.lua:11: Bad argument @ 'getElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:47:16] WARNING: teleport\tele.lua:14: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:47:47] restart: Requested by Console
+[2020-01-21 23:47:47] restart: Resource restarting...
+[2020-01-21 23:47:47] Stopping teleport
+[2020-01-21 23:47:47] Resource 'teleport' changed, reloading and starting
+[2020-01-21 23:47:47] Starting teleport
+[2020-01-21 23:47:47] teleport restarted successfully
+[2020-01-21 23:47:49] WARNING: teleport\tele.lua:11: Bad argument @ 'getElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:47:49] WARNING: teleport\tele.lua:14: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:48:09] WARNING: teleport\tele.lua:11: Bad argument @ 'getElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:48:09] WARNING: teleport\tele.lua:14: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:48:12] WARNING: teleport\tele.lua:11: Bad argument @ 'getElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:48:18] WARNING: teleport\tele.lua:14: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:48:18] WARNING: teleport\tele.lua:11: Bad argument @ 'getElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:48:18] WARNING: teleport\tele.lua:14: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2020-01-21 23:48:32] QUIT: Nurupo27 left the game [Quit]
+[2020-01-21 23:49:11] restart: Requested by Console
+[2020-01-21 23:49:11] restart: Resource restarting...
+[2020-01-21 23:49:11] Stopping teleport
+[2020-01-21 23:49:11] Resource 'teleport' changed, reloading and starting
+[2020-01-21 23:49:11] Starting teleport
+[2020-01-21 23:49:11] teleport restarted successfully

@@ -147,7 +147,7 @@ end
 
 
 function searchVendingMachine()
-	if not isPedDead(local_player) and not using_machine and not isPedInVehicle(local_player) then
+	if not isPlayerDead(local_player) and not using_machine and not isPedInVehicle(local_player) then
 		local machine = isPlayerInFrontOfVendingMachine()
 		if machine then
 			useVendingMachine(machine)
@@ -262,7 +262,7 @@ function startVendingMachineAnimation(machine)
 	using_machine = machine
 	--toggleControl("enter_exit",false)
 	toggleAllControls(false,true,true)
-	setElementFrozen(local_player,true)
+	setPedFrozen(local_player,true)
 	local name = getElementData(machine,"vending_type")
 	triggerServerEvent("DoVendingMachineAnimation",local_player,name)
 	triggerEvent("playVendingMachineAnimation",local_player,name)
@@ -279,7 +279,7 @@ end
 
 function giveVendingMachineHealth(name)
 	local health = getElementHealth(local_player)
-	if not isPedDead(local_player) then
+	if not isPlayerDead(local_player) then
 		local heal = machine_info[name].health
 		if health+heal > 100 then
 		-- MAX_HEALTH stat defaults to 569 which fucks this up (there are also other problems with setting the MAX_HEALTH) so leave this out for now
@@ -351,7 +351,7 @@ function stopVendingMachineAnimation(player,external)
 		end
 		
 		setPedAnimation(player)		
-		setElementFrozen(player,false)
+		setPedFrozen(player,false)
 		
 		if player == local_player then
 		--	toggleControl("enter_exit",true)	
