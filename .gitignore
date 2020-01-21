@@ -1,3 +1,5 @@
 mods/deathmatch/databases/
 mods/deathmatch/dumps/
 mods/deathmatch/internal.db
+mods/deathmatch/internal.db-journal
+mods/deathmatch/logs/
