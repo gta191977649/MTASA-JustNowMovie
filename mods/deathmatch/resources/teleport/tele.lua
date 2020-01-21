@@ -8,10 +8,10 @@ function tele(source,cmd,placeName)
             local a = result[1]["A"]
             local int = result[1]["INT"]
             local creator = result[1]["CREATOR"]
-            local rotX, rotY = getElementRotation(localPlayer)
+            local rotX, rotY = getElementRotation(source)
 
             setElementPosition ( source, x, y, z )
-            setElementRotation(localPlayer,0,0,a) 
+            setElementRotation(source,0,0,a) 
             setElementInterior ( source, int)
 
             outputChatBox ( "传送到:" .. placeName .. " 制作者:" ..creator  ,source )
