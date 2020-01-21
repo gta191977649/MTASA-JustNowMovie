@@ -1,0 +1,9 @@
+
+
+addEventHandler("onClientRender", root,
+    function()
+        dxDrawRectangle(10, 175, 364, 143, tocolor(0, 0, 0, 188), false)
+        dxDrawText("Welcome to Justnowmovie", 20 + 1, 185 + 1, 364 + 1, 308 + 1, tocolor(0, 0, 0, 255), 2.00, "default", "left", "top", false, true, false, false, false)
+        dxDrawText("Welcome to Justnowmovie", 20, 185, 364, 308, tocolor(255, 255, 255, 255), 2.00, "default", "left", "top", false, true, false, false, false)
+    end
+)

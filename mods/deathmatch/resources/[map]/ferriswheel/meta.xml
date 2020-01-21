@@ -1,0 +1,10 @@
+<meta>
+  <info type="script" author="DakiLLa" version="1.0.3" />
+  <min_mta_version client="1.2.0-9.03618" server="1.2.0-9.03618" />
+  
+  <script src="ferris_s.lua" type="server" />
+  <script src="data_pos.lua" type="server" />
+  <script src="ferris_c.lua" type="client" />
+  
+  <file src="fcabin.col" />
+</meta>

@@ -1,0 +1,15 @@
+<help>
+The heligrab resource allows you to jump, grab and hang onto parts of helicopters
+To grab on to a helicopter, you must be standing with your hands close to the helicopter rails and press DOUBLE LSHIFT, or write the grab command.
+
+By default, valid commands are:
+/grab (grabs onto a helicopter)
+/helidrop (drops off a helicopter)
+
+These commands are also bound to the keys 'jump' (grab) and 'backspace' (helidrop) by default
+
+The key binds can be modified in the binds menu in the MTA settings
+
+You can also bind the commands to keys yourself with:
+/bind key state command (eg: "/bind lshift down grab")
+</help>

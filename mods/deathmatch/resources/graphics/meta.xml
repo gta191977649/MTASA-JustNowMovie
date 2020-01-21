@@ -1,0 +1,30 @@
+<meta>
+	<info name="ShaderWetRoads2" description="ShaderWetRoads2" author="Ren712,ccw,Samake" version="1.0.0" type="script" />
+	<min_mta_version client="1.5" server="1.5"/>
+	<oop>true</oop>
+	
+	<!-- server scripts  -->
+	<script src="server/MainClassS.lua" type="server"/>
+	
+	<!-- client scripts  -->
+	<script src="client/MainClassC.lua" type="client"/>
+	<script src="client/RoadShineConfigsC.lua" type="client"/>
+	<script src="client/WetShadersC.lua" type="client"/>
+	<script src="client/WetParticlesC.lua" type="client"/>
+	
+	<!-- shared scripts  -->
+	<script src="shared/classlib.lua" type="shared" />
+	<script src="shared/utils.lua" type="shared" />
+	
+	<!-- shaders  -->
+	<file src="res/shaders/mta-helper.fx" type="client"/>
+	<file src="res/shaders/wetRoads.fx" type="client"/>
+	<file src="res/shaders/wetRoadsWithPuddles.fx" type="client"/>
+	<file src="res/shaders/blurH.fx" type="client"/>
+	<file src="res/shaders/blurV.fx" type="client"/>
+	
+	<!-- textures  -->
+	<file src="res/textures/puddleMask.png" type="client"/>
+	<file src="res/textures/waterNormal.png" type="client"/>
+	<file src="res/textures/waterDrops.png" type="client"/>
+</meta>
