@@ -4177,3 +4177,33 @@
 [2020-01-21 23:52:36] Server started and is ready to accept connections!
 [2020-01-21 23:52:36] To stop the server, type 'shutdown' or press Ctrl-C
 [2020-01-21 23:52:36] Type 'help' for a list of commands.
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : MTA SA - 拍摄现场
+= Server IP address: auto
+= Server port      : 22004
+= 
+= Log file         : ..ustNowMovie/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-01-21 23:53:21] Resource 'gui_edit' requests some acl rights. Use the command 'aclrequest list gui_edit'
+[2020-01-21 23:53:21] Resources: 29 loaded, 0 failed
+[2020-01-21 23:53:21] Starting resources...
+[2020-01-21 23:53:21] INFO: DB Connection OK!
+[2020-01-21 23:53:22] Loaded path map paths/maps/san_andreas in 1040 ms
+[2020-01-21 23:53:22] Loaded all path maps in 1041 ms
+[2020-01-21 23:53:22] ERROR: Couldn't find resource nametag. Check it exists.
+[2020-01-21 23:53:22] Server minclientversion is now 1.5.7-9.18981.0
+[2020-01-21 23:53:22] Querying MTA master server... success! (Auto detected IP:101.180.65.73)
+[2020-01-21 23:53:22] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-01-21 23:53:22] WARNING: <owner_email_address> not set
+[2020-01-21 23:53:22] Server started and is ready to accept connections!
+[2020-01-21 23:53:22] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-01-21 23:53:22] Type 'help' for a list of commands.
+[2020-01-21 23:53:24] Server stopped!
+[2020-01-21 23:53:24] Stopping resources....................
+[2020-01-21 23:53:24] Closing SQLite3 database
