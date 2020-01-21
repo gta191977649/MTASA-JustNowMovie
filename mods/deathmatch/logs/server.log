@@ -4150,3 +4150,30 @@
 [2020-01-21 23:49:11] Resource 'teleport' changed, reloading and starting
 [2020-01-21 23:49:11] Starting teleport
 [2020-01-21 23:49:11] teleport restarted successfully
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : MTA SA - 拍摄现场
+= Server IP address: auto
+= Server port      : 22004
+= 
+= Log file         : ..ustNowMovie/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-01-21 23:52:35] Resource 'gui_edit' requests some acl rights. Use the command 'aclrequest list gui_edit'
+[2020-01-21 23:52:35] Resources: 29 loaded, 0 failed
+[2020-01-21 23:52:35] Starting resources...
+[2020-01-21 23:52:35] INFO: DB Connection OK!
+[2020-01-21 23:52:36] Loaded path map paths/maps/san_andreas in 921 ms
+[2020-01-21 23:52:36] Loaded all path maps in 921 ms
+[2020-01-21 23:52:36] ERROR: Couldn't find resource nametag. Check it exists.
+[2020-01-21 23:52:36] Server minclientversion is now 1.5.7-9.18981.0
+[2020-01-21 23:52:36] Querying MTA master server... success! (Auto detected IP:101.180.65.73)
+[2020-01-21 23:52:36] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-01-21 23:52:36] WARNING: <owner_email_address> not set
+[2020-01-21 23:52:36] Server started and is ready to accept connections!
+[2020-01-21 23:52:36] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-01-21 23:52:36] Type 'help' for a list of commands.
