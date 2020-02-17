@@ -1,4 +1,6 @@
 <meta>
+    <script src="vehicle_door.lua" type="server"/>
     <script src="vehicles.lua" type="server"/>
     <script src="vehicles_c.lua" type="client"/>
+    <script src="vehicle_door_c.lua" type="client"/>
 </meta>

@@ -18,6 +18,7 @@ function ( messageData2)
     messageData = messageData2 
     if not infoboxHandler then 
         addEventHandler("onClientRender",root,infobox) 
+        playSoundFrontEnd ( 11)
         setTimer(destroyInfobox,3000,1) 
         infoboxHandler = true 
     end 
